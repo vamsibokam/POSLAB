@@ -112,7 +112,7 @@ void graph::dfs(int num)
 {
 	int store;
 	vis[num] = 1;
-	
+	// cout<<" , "<<num;
 	if(type[num] == 1)
 	{
 		// cout<<"Class A Vertex "<<num<<"\n";

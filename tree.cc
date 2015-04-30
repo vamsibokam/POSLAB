@@ -460,10 +460,12 @@ int Tree::DFSOptimizer(int rootnode){
 
 int DFSPre(int id){
     //cerr << "DFSPre on node " << id << "\n";
+    
 
     static int s = 0;
     if (map[id] == 0) {
         map[id] = ++s;
+        // cout<<" , "<<id;
         return 1;
     }
     else {
