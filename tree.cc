@@ -11,6 +11,8 @@
 
 #include <stdio.h>
 
+#include "satellite.h"
+
 using namespace std;
 
 static int* map;

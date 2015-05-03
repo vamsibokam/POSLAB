@@ -154,6 +154,29 @@ int main()
 	build_over_degree_random_graph(g1,t1,gm1);
 	// t1.Print();
 	Time_Comparison(g1,t1,gm1);
+
+	int sizes2[]  =  { sizeof(A), sizeof(F) };
+	cout<< "\nTest case 3: With nodes having lesser degrees(With bulk number of variable in each class)\n"; 
+	graph g2(true);
+	graphMat gm2(true);
+	Tree t2(2, sizes2, 2, true);
+	build_random_graph(g2,t2,gm2);
+	// t.Print();
+	Time_Comparison(g2,t2,gm2);
+
+
+	/*
+	Test case 2:
+	*/
+	cout<< "\n\nTest case 4: With nodes having higher degrees(with bulk number of variables in each class)\n"; 
+	graph g3(true);
+	Tree t3(2, sizes2, 2, true);
+	graphMat gm3(true);
+	build_over_degree_random_graph(g3,t3,gm3);
+	// t1.Print();
+	Time_Comparison(g3,t3,gm3);
+
+
 	
 	return 0;
 }

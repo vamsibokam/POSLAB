@@ -1,300 +1,520 @@
-=========================================================
-For  Execution  No : 1
+=====================
+For 1 execution 
 Perfomances : 
 
 
 Test case 1: With nodes having lesser degrees
-Normal Graph (Adjacency lists) :	0.020133 seconds
-Normal Graph (Adjacency Matrix):	0.023494 seconds
-Arrayed Tree Implementation of Graph :	0.000261 seconds
+Normal Graph (Adjacency lists) :	0.012489 seconds
+Normal Graph (Adjacency Matrix):	0.015076 seconds
+Arrayed Tree Implementation of Graph :	0.000828 seconds
 
 
 Test case 2: With nodes having higher degrees
-Normal Graph (Adjacency lists) :	0.011677 seconds
-Normal Graph (Adjacency Matrix):	0.010802 seconds
-Arrayed Tree Implementation of Graph :	0.001296 seconds
-=========================================================
-For  Execution  No : 2
-Perfomances : 
-
-
-Test case 1: With nodes having lesser degrees
-Normal Graph (Adjacency lists) :	0.019382 seconds
-Normal Graph (Adjacency Matrix):	0.023087 seconds
-Arrayed Tree Implementation of Graph :	0.000328 seconds
-
-
-Test case 2: With nodes having higher degrees
-Normal Graph (Adjacency lists) :	0.011562 seconds
-Normal Graph (Adjacency Matrix):	0.010858 seconds
-Arrayed Tree Implementation of Graph :	0.001285 seconds
-=========================================================
-For  Execution  No : 3
-Perfomances : 
-
-
-Test case 1: With nodes having lesser degrees
-Normal Graph (Adjacency lists) :	0.019385 seconds
-Normal Graph (Adjacency Matrix):	0.023307 seconds
-Arrayed Tree Implementation of Graph :	0.000251 seconds
-
-
-Test case 2: With nodes having higher degrees
-Normal Graph (Adjacency lists) :	0.011567 seconds
-Normal Graph (Adjacency Matrix):	0.01076 seconds
-Arrayed Tree Implementation of Graph :	0.001264 seconds
-=========================================================
-For  Execution  No : 4
-Perfomances : 
-
-
-Test case 1: With nodes having lesser degrees
-Normal Graph (Adjacency lists) :	0.019487 seconds
-Normal Graph (Adjacency Matrix):	0.02334 seconds
-Arrayed Tree Implementation of Graph :	0.000253 seconds
-
-
-Test case 2: With nodes having higher degrees
-Normal Graph (Adjacency lists) :	0.011632 seconds
-Normal Graph (Adjacency Matrix):	0.010855 seconds
-Arrayed Tree Implementation of Graph :	0.001266 seconds
-=========================================================
-For  Execution  No : 5
-Perfomances : 
-
-
-Test case 1: With nodes having lesser degrees
-Normal Graph (Adjacency lists) :	0.019243 seconds
-Normal Graph (Adjacency Matrix):	0.023177 seconds
-Arrayed Tree Implementation of Graph :	0.000249 seconds
-
-
-Test case 2: With nodes having higher degrees
-Normal Graph (Adjacency lists) :	0.011584 seconds
-Normal Graph (Adjacency Matrix):	0.010798 seconds
-Arrayed Tree Implementation of Graph :	0.00127 seconds
-=========================================================
-For  Execution  No : 6
-Perfomances : 
-
-
-Test case 1: With nodes having lesser degrees
-Normal Graph (Adjacency lists) :	0.019525 seconds
-Normal Graph (Adjacency Matrix):	0.023323 seconds
-Arrayed Tree Implementation of Graph :	0.00025 seconds
-
-
-Test case 2: With nodes having higher degrees
-Normal Graph (Adjacency lists) :	0.011565 seconds
-Normal Graph (Adjacency Matrix):	0.010862 seconds
-Arrayed Tree Implementation of Graph :	0.001261 seconds
-=========================================================
-For  Execution  No : 7
-Perfomances : 
-
-
-Test case 1: With nodes having lesser degrees
-Normal Graph (Adjacency lists) :	0.019375 seconds
-Normal Graph (Adjacency Matrix):	0.023069 seconds
-Arrayed Tree Implementation of Graph :	0.000248 seconds
-
-
-Test case 2: With nodes having higher degrees
-Normal Graph (Adjacency lists) :	0.011658 seconds
-Normal Graph (Adjacency Matrix):	0.012971 seconds
-Arrayed Tree Implementation of Graph :	0.001395 seconds
-=========================================================
-For  Execution  No : 8
-Perfomances : 
-
-
-Test case 1: With nodes having lesser degrees
-Normal Graph (Adjacency lists) :	0.020216 seconds
-Normal Graph (Adjacency Matrix):	0.023299 seconds
-Arrayed Tree Implementation of Graph :	0.000273 seconds
-
-
-Test case 2: With nodes having higher degrees
-Normal Graph (Adjacency lists) :	0.011559 seconds
-Normal Graph (Adjacency Matrix):	0.010816 seconds
-Arrayed Tree Implementation of Graph :	0.00129 seconds
-=========================================================
-For  Execution  No : 9
-Perfomances : 
-
-
-Test case 1: With nodes having lesser degrees
-Normal Graph (Adjacency lists) :	0.019678 seconds
-Normal Graph (Adjacency Matrix):	0.023348 seconds
-Arrayed Tree Implementation of Graph :	0.000258 seconds
-
-
-Test case 2: With nodes having higher degrees
-Normal Graph (Adjacency lists) :	0.011692 seconds
-Normal Graph (Adjacency Matrix):	0.010768 seconds
-Arrayed Tree Implementation of Graph :	0.001262 seconds
-=========================================================
-For  Execution  No : 10
-Perfomances : 
-
-
-Test case 1: With nodes having lesser degrees
-Normal Graph (Adjacency lists) :	0.019471 seconds
-Normal Graph (Adjacency Matrix):	0.023463 seconds
-Arrayed Tree Implementation of Graph :	0.000286 seconds
-
-
-Test case 2: With nodes having higher degrees
-Normal Graph (Adjacency lists) :	0.011593 seconds
-Normal Graph (Adjacency Matrix):	0.010742 seconds
-Arrayed Tree Implementation of Graph :	0.001259 seconds
-=========================================================
-For  Execution  No : 11
-Perfomances : 
-
-
-Test case 1: With nodes having lesser degrees
-Normal Graph (Adjacency lists) :	0.019344 seconds
-Normal Graph (Adjacency Matrix):	0.023094 seconds
-Arrayed Tree Implementation of Graph :	0.000252 seconds
-
-
-Test case 2: With nodes having higher degrees
-Normal Graph (Adjacency lists) :	0.011726 seconds
-Normal Graph (Adjacency Matrix):	0.010805 seconds
-Arrayed Tree Implementation of Graph :	0.001275 seconds
-=========================================================
-For  Execution  No : 12
-Perfomances : 
-
-
-Test case 1: With nodes having lesser degrees
-Normal Graph (Adjacency lists) :	0.019473 seconds
-Normal Graph (Adjacency Matrix):	0.023131 seconds
-Arrayed Tree Implementation of Graph :	0.000256 seconds
-
-
-Test case 2: With nodes having higher degrees
-Normal Graph (Adjacency lists) :	0.011598 seconds
-Normal Graph (Adjacency Matrix):	0.010739 seconds
-Arrayed Tree Implementation of Graph :	0.001258 seconds
-=========================================================
-For  Execution  No : 13
-Perfomances : 
-
-
-Test case 1: With nodes having lesser degrees
-Normal Graph (Adjacency lists) :	0.011703 seconds
-Normal Graph (Adjacency Matrix):	0.009728 seconds
-Arrayed Tree Implementation of Graph :	0.000183 seconds
-
-
-Test case 2: With nodes having higher degrees
-Normal Graph (Adjacency lists) :	0.011991 seconds
-Normal Graph (Adjacency Matrix):	0.012055 seconds
-Arrayed Tree Implementation of Graph :	0.000303 seconds
-=========================================================
-For  Execution  No : 14
-Perfomances : 
-
-
-Test case 1: With nodes having lesser degrees
-Normal Graph (Adjacency lists) :	0.01166 seconds
-Normal Graph (Adjacency Matrix):	0.009792 seconds
-Arrayed Tree Implementation of Graph :	0.000186 seconds
-
-
-Test case 2: With nodes having higher degrees
-Normal Graph (Adjacency lists) :	0.012029 seconds
-Normal Graph (Adjacency Matrix):	0.012045 seconds
-Arrayed Tree Implementation of Graph :	0.000302 seconds
-=========================================================
-For  Execution  No : 15
-Perfomances : 
-
-
-Test case 1: With nodes having lesser degrees
-Normal Graph (Adjacency lists) :	0.011664 seconds
-Normal Graph (Adjacency Matrix):	0.009727 seconds
-Arrayed Tree Implementation of Graph :	0.000186 seconds
-
-
-Test case 2: With nodes having higher degrees
-Normal Graph (Adjacency lists) :	0.011792 seconds
-Normal Graph (Adjacency Matrix):	0.01213 seconds
-Arrayed Tree Implementation of Graph :	0.000304 seconds
-=========================================================
-For  Execution  No : 16
-Perfomances : 
-
-
-Test case 1: With nodes having lesser degrees
-Normal Graph (Adjacency lists) :	0.011717 seconds
-Normal Graph (Adjacency Matrix):	0.009714 seconds
-Arrayed Tree Implementation of Graph :	0.000182 seconds
-
-
-Test case 2: With nodes having higher degrees
-Normal Graph (Adjacency lists) :	0.011918 seconds
-Normal Graph (Adjacency Matrix):	0.011999 seconds
-Arrayed Tree Implementation of Graph :	0.000304 seconds
-=========================================================
-For  Execution  No : 17
-Perfomances : 
-
-
-Test case 1: With nodes having lesser degrees
-Normal Graph (Adjacency lists) :	0.011656 seconds
-Normal Graph (Adjacency Matrix):	0.009748 seconds
-Arrayed Tree Implementation of Graph :	0.000183 seconds
-
-
-Test case 2: With nodes having higher degrees
-Normal Graph (Adjacency lists) :	0.011907 seconds
-Normal Graph (Adjacency Matrix):	0.012083 seconds
-Arrayed Tree Implementation of Graph :	0.000301 seconds
-=========================================================
-For  Execution  No : 18
-Perfomances : 
-
-
-Test case 1: With nodes having lesser degrees
-Normal Graph (Adjacency lists) :	0.011681 seconds
-Normal Graph (Adjacency Matrix):	0.009765 seconds
-Arrayed Tree Implementation of Graph :	0.000187 seconds
-
-
-Test case 2: With nodes having higher degrees
-Normal Graph (Adjacency lists) :	0.011788 seconds
-Normal Graph (Adjacency Matrix):	0.01201 seconds
+Normal Graph (Adjacency lists) :	0.01663 seconds
+Normal Graph (Adjacency Matrix):	0.016043 seconds
+Arrayed Tree Implementation of Graph :	0.001859 seconds
+
+Test case 3: With nodes having lesser degrees(With bulk number of variable in each class)
+Normal Graph (Adjacency lists) :	0.016072 seconds
+Normal Graph (Adjacency Matrix):	0.018758 seconds
 Arrayed Tree Implementation of Graph :	0.0003 seconds
-=========================================================
-For  Execution  No : 19
+
+
+Test case 4: With nodes having higher degrees(with bulk number of variables in each class)
+Normal Graph (Adjacency lists) :	0.022196 seconds
+Normal Graph (Adjacency Matrix):	0.023191 seconds
+Arrayed Tree Implementation of Graph :	0.001364 seconds
+=====================
+For 2 execution 
 Perfomances : 
 
 
 Test case 1: With nodes having lesser degrees
-Normal Graph (Adjacency lists) :	0.012119 seconds
-Normal Graph (Adjacency Matrix):	0.009745 seconds
-Arrayed Tree Implementation of Graph :	0.000183 seconds
+Normal Graph (Adjacency lists) :	0.011896 seconds
+Normal Graph (Adjacency Matrix):	0.01453 seconds
+Arrayed Tree Implementation of Graph :	0.000749 seconds
 
 
 Test case 2: With nodes having higher degrees
-Normal Graph (Adjacency lists) :	0.011849 seconds
-Normal Graph (Adjacency Matrix):	0.012101 seconds
-Arrayed Tree Implementation of Graph :	0.000302 seconds
-=========================================================
-For  Execution  No : 20
+Normal Graph (Adjacency lists) :	0.016624 seconds
+Normal Graph (Adjacency Matrix):	0.015976 seconds
+Arrayed Tree Implementation of Graph :	0.001898 seconds
+
+Test case 3: With nodes having lesser degrees(With bulk number of variable in each class)
+Normal Graph (Adjacency lists) :	0.016122 seconds
+Normal Graph (Adjacency Matrix):	0.018793 seconds
+Arrayed Tree Implementation of Graph :	0.000314 seconds
+
+
+Test case 4: With nodes having higher degrees(with bulk number of variables in each class)
+Normal Graph (Adjacency lists) :	0.022155 seconds
+Normal Graph (Adjacency Matrix):	0.023222 seconds
+Arrayed Tree Implementation of Graph :	0.001358 seconds
+=====================
+For 3 execution 
 Perfomances : 
 
 
 Test case 1: With nodes having lesser degrees
-Normal Graph (Adjacency lists) :	0.011968 seconds
-Normal Graph (Adjacency Matrix):	0.00974 seconds
-Arrayed Tree Implementation of Graph :	0.000183 seconds
+Normal Graph (Adjacency lists) :	0.011924 seconds
+Normal Graph (Adjacency Matrix):	0.014639 seconds
+Arrayed Tree Implementation of Graph :	0.000751 seconds
 
 
 Test case 2: With nodes having higher degrees
-Normal Graph (Adjacency lists) :	0.012473 seconds
-Normal Graph (Adjacency Matrix):	0.012156 seconds
-Arrayed Tree Implementation of Graph :	0.000312 seconds
+Normal Graph (Adjacency lists) :	0.016585 seconds
+Normal Graph (Adjacency Matrix):	0.015942 seconds
+Arrayed Tree Implementation of Graph :	0.001842 seconds
+
+Test case 3: With nodes having lesser degrees(With bulk number of variable in each class)
+Normal Graph (Adjacency lists) :	0.016194 seconds
+Normal Graph (Adjacency Matrix):	0.018893 seconds
+Arrayed Tree Implementation of Graph :	0.000337 seconds
+
+
+Test case 4: With nodes having higher degrees(with bulk number of variables in each class)
+Normal Graph (Adjacency lists) :	0.022212 seconds
+Normal Graph (Adjacency Matrix):	0.023277 seconds
+Arrayed Tree Implementation of Graph :	0.001364 seconds
+=====================
+For 4 execution 
+Perfomances : 
+
+
+Test case 1: With nodes having lesser degrees
+Normal Graph (Adjacency lists) :	0.012083 seconds
+Normal Graph (Adjacency Matrix):	0.014585 seconds
+Arrayed Tree Implementation of Graph :	0.000754 seconds
+
+
+Test case 2: With nodes having higher degrees
+Normal Graph (Adjacency lists) :	0.01667 seconds
+Normal Graph (Adjacency Matrix):	0.016082 seconds
+Arrayed Tree Implementation of Graph :	0.001882 seconds
+
+Test case 3: With nodes having lesser degrees(With bulk number of variable in each class)
+Normal Graph (Adjacency lists) :	0.016178 seconds
+Normal Graph (Adjacency Matrix):	0.018817 seconds
+Arrayed Tree Implementation of Graph :	0.000305 seconds
+
+
+Test case 4: With nodes having higher degrees(with bulk number of variables in each class)
+Normal Graph (Adjacency lists) :	0.022142 seconds
+Normal Graph (Adjacency Matrix):	0.02315 seconds
+Arrayed Tree Implementation of Graph :	0.00136 seconds
+=====================
+For 5 execution 
+Perfomances : 
+
+
+Test case 1: With nodes having lesser degrees
+Normal Graph (Adjacency lists) :	0.012209 seconds
+Normal Graph (Adjacency Matrix):	0.014546 seconds
+Arrayed Tree Implementation of Graph :	0.000773 seconds
+
+
+Test case 2: With nodes having higher degrees
+Normal Graph (Adjacency lists) :	0.016614 seconds
+Normal Graph (Adjacency Matrix):	0.015966 seconds
+Arrayed Tree Implementation of Graph :	0.001853 seconds
+
+Test case 3: With nodes having lesser degrees(With bulk number of variable in each class)
+Normal Graph (Adjacency lists) :	0.016151 seconds
+Normal Graph (Adjacency Matrix):	0.018736 seconds
+Arrayed Tree Implementation of Graph :	0.000326 seconds
+
+
+Test case 4: With nodes having higher degrees(with bulk number of variables in each class)
+Normal Graph (Adjacency lists) :	0.022194 seconds
+Normal Graph (Adjacency Matrix):	0.02324 seconds
+Arrayed Tree Implementation of Graph :	0.001362 seconds
+=====================
+For 6 execution 
+Perfomances : 
+
+
+Test case 1: With nodes having lesser degrees
+Normal Graph (Adjacency lists) :	0.01209 seconds
+Normal Graph (Adjacency Matrix):	0.014601 seconds
+Arrayed Tree Implementation of Graph :	0.000747 seconds
+
+
+Test case 2: With nodes having higher degrees
+Normal Graph (Adjacency lists) :	0.016633 seconds
+Normal Graph (Adjacency Matrix):	0.01598 seconds
+Arrayed Tree Implementation of Graph :	0.001853 seconds
+
+Test case 3: With nodes having lesser degrees(With bulk number of variable in each class)
+Normal Graph (Adjacency lists) :	0.016128 seconds
+Normal Graph (Adjacency Matrix):	0.018786 seconds
+Arrayed Tree Implementation of Graph :	0.000338 seconds
+
+
+Test case 4: With nodes having higher degrees(with bulk number of variables in each class)
+Normal Graph (Adjacency lists) :	0.022199 seconds
+Normal Graph (Adjacency Matrix):	0.025466 seconds
+Arrayed Tree Implementation of Graph :	0.002275 seconds
+=====================
+For 7 execution 
+Perfomances : 
+
+
+Test case 1: With nodes having lesser degrees
+Normal Graph (Adjacency lists) :	0.018939 seconds
+Normal Graph (Adjacency Matrix):	0.016142 seconds
+Arrayed Tree Implementation of Graph :	0.000568 seconds
+
+
+Test case 2: With nodes having higher degrees
+Normal Graph (Adjacency lists) :	0.016406 seconds
+Normal Graph (Adjacency Matrix):	0.018566 seconds
+Arrayed Tree Implementation of Graph :	0.00022 seconds
+
+Test case 3: With nodes having lesser degrees(With bulk number of variable in each class)
+Normal Graph (Adjacency lists) :	0.008804 seconds
+Normal Graph (Adjacency Matrix):	0.01183 seconds
+Arrayed Tree Implementation of Graph :	0.000701 seconds
+
+
+Test case 4: With nodes having higher degrees(with bulk number of variables in each class)
+Normal Graph (Adjacency lists) :	0.024454 seconds
+Normal Graph (Adjacency Matrix):	0.022781 seconds
+Arrayed Tree Implementation of Graph :	0.003262 seconds
+=====================
+For 8 execution 
+Perfomances : 
+
+
+Test case 1: With nodes having lesser degrees
+Normal Graph (Adjacency lists) :	0.013087 seconds
+Normal Graph (Adjacency Matrix):	0.016097 seconds
+Arrayed Tree Implementation of Graph :	0.000534 seconds
+
+
+Test case 2: With nodes having higher degrees
+Normal Graph (Adjacency lists) :	0.01636 seconds
+Normal Graph (Adjacency Matrix):	0.018479 seconds
+Arrayed Tree Implementation of Graph :	0.000194 seconds
+
+Test case 3: With nodes having lesser degrees(With bulk number of variable in each class)
+Normal Graph (Adjacency lists) :	0.008836 seconds
+Normal Graph (Adjacency Matrix):	0.011865 seconds
+Arrayed Tree Implementation of Graph :	0.00072 seconds
+
+
+Test case 4: With nodes having higher degrees(with bulk number of variables in each class)
+Normal Graph (Adjacency lists) :	0.024549 seconds
+Normal Graph (Adjacency Matrix):	0.022634 seconds
+Arrayed Tree Implementation of Graph :	0.003248 seconds
+=====================
+For 9 execution 
+Perfomances : 
+
+
+Test case 1: With nodes having lesser degrees
+Normal Graph (Adjacency lists) :	0.013299 seconds
+Normal Graph (Adjacency Matrix):	0.016447 seconds
+Arrayed Tree Implementation of Graph :	0.000594 seconds
+
+
+Test case 2: With nodes having higher degrees
+Normal Graph (Adjacency lists) :	0.016318 seconds
+Normal Graph (Adjacency Matrix):	0.018489 seconds
+Arrayed Tree Implementation of Graph :	0.000194 seconds
+
+Test case 3: With nodes having lesser degrees(With bulk number of variable in each class)
+Normal Graph (Adjacency lists) :	0.008931 seconds
+Normal Graph (Adjacency Matrix):	0.011967 seconds
+Arrayed Tree Implementation of Graph :	0.00071 seconds
+
+
+Test case 4: With nodes having higher degrees(with bulk number of variables in each class)
+Normal Graph (Adjacency lists) :	0.024613 seconds
+Normal Graph (Adjacency Matrix):	0.022717 seconds
+Arrayed Tree Implementation of Graph :	0.003285 seconds
+=====================
+For 10 execution 
+Perfomances : 
+
+
+Test case 1: With nodes having lesser degrees
+Normal Graph (Adjacency lists) :	0.013212 seconds
+Normal Graph (Adjacency Matrix):	0.016083 seconds
+Arrayed Tree Implementation of Graph :	0.000554 seconds
+
+
+Test case 2: With nodes having higher degrees
+Normal Graph (Adjacency lists) :	0.016274 seconds
+Normal Graph (Adjacency Matrix):	0.018506 seconds
+Arrayed Tree Implementation of Graph :	0.000197 seconds
+
+Test case 3: With nodes having lesser degrees(With bulk number of variable in each class)
+Normal Graph (Adjacency lists) :	0.008832 seconds
+Normal Graph (Adjacency Matrix):	0.011858 seconds
+Arrayed Tree Implementation of Graph :	0.000717 seconds
+
+
+Test case 4: With nodes having higher degrees(with bulk number of variables in each class)
+Normal Graph (Adjacency lists) :	0.024642 seconds
+Normal Graph (Adjacency Matrix):	0.022643 seconds
+Arrayed Tree Implementation of Graph :	0.003313 seconds
+=====================
+For 11 execution 
+Perfomances : 
+
+
+Test case 1: With nodes having lesser degrees
+Normal Graph (Adjacency lists) :	0.01293 seconds
+Normal Graph (Adjacency Matrix):	0.016169 seconds
+Arrayed Tree Implementation of Graph :	0.000523 seconds
+
+
+Test case 2: With nodes having higher degrees
+Normal Graph (Adjacency lists) :	0.016303 seconds
+Normal Graph (Adjacency Matrix):	0.018513 seconds
+Arrayed Tree Implementation of Graph :	0.000194 seconds
+
+Test case 3: With nodes having lesser degrees(With bulk number of variable in each class)
+Normal Graph (Adjacency lists) :	0.008854 seconds
+Normal Graph (Adjacency Matrix):	0.01184 seconds
+Arrayed Tree Implementation of Graph :	0.000708 seconds
+
+
+Test case 4: With nodes having higher degrees(with bulk number of variables in each class)
+Normal Graph (Adjacency lists) :	0.024553 seconds
+Normal Graph (Adjacency Matrix):	0.022675 seconds
+Arrayed Tree Implementation of Graph :	0.003283 seconds
+=====================
+For 12 execution 
+Perfomances : 
+
+
+Test case 1: With nodes having lesser degrees
+Normal Graph (Adjacency lists) :	0.013094 seconds
+Normal Graph (Adjacency Matrix):	0.016236 seconds
+Arrayed Tree Implementation of Graph :	0.000536 seconds
+
+
+Test case 2: With nodes having higher degrees
+Normal Graph (Adjacency lists) :	0.016284 seconds
+Normal Graph (Adjacency Matrix):	0.018453 seconds
+Arrayed Tree Implementation of Graph :	0.000192 seconds
+
+Test case 3: With nodes having lesser degrees(With bulk number of variable in each class)
+Normal Graph (Adjacency lists) :	0.008862 seconds
+Normal Graph (Adjacency Matrix):	0.011862 seconds
+Arrayed Tree Implementation of Graph :	0.000721 seconds
+
+
+Test case 4: With nodes having higher degrees(with bulk number of variables in each class)
+Normal Graph (Adjacency lists) :	0.024517 seconds
+Normal Graph (Adjacency Matrix):	0.022717 seconds
+Arrayed Tree Implementation of Graph :	0.003297 seconds
+=====================
+For 13 execution 
+Perfomances : 
+
+
+Test case 1: With nodes having lesser degrees
+Normal Graph (Adjacency lists) :	0.013264 seconds
+Normal Graph (Adjacency Matrix):	0.016095 seconds
+Arrayed Tree Implementation of Graph :	0.000533 seconds
+
+
+Test case 2: With nodes having higher degrees
+Normal Graph (Adjacency lists) :	0.016501 seconds
+Normal Graph (Adjacency Matrix):	0.018665 seconds
+Arrayed Tree Implementation of Graph :	0.000206 seconds
+
+Test case 3: With nodes having lesser degrees(With bulk number of variable in each class)
+Normal Graph (Adjacency lists) :	0.008882 seconds
+Normal Graph (Adjacency Matrix):	0.011816 seconds
+Arrayed Tree Implementation of Graph :	0.000731 seconds
+
+
+Test case 4: With nodes having higher degrees(with bulk number of variables in each class)
+Normal Graph (Adjacency lists) :	0.024523 seconds
+Normal Graph (Adjacency Matrix):	0.022954 seconds
+Arrayed Tree Implementation of Graph :	0.003315 seconds
+=====================
+For 14 execution 
+Perfomances : 
+
+
+Test case 1: With nodes having lesser degrees
+Normal Graph (Adjacency lists) :	0.020531 seconds
+Normal Graph (Adjacency Matrix):	0.023349 seconds
+Arrayed Tree Implementation of Graph :	0.00045 seconds
+
+
+Test case 2: With nodes having higher degrees
+Normal Graph (Adjacency lists) :	0.019823 seconds
+Normal Graph (Adjacency Matrix):	0.02092 seconds
+Arrayed Tree Implementation of Graph :	0.000436 seconds
+
+Test case 3: With nodes having lesser degrees(With bulk number of variable in each class)
+Normal Graph (Adjacency lists) :	0.018551 seconds
+Normal Graph (Adjacency Matrix):	0.020979 seconds
+Arrayed Tree Implementation of Graph :	0.000319 seconds
+
+
+Test case 4: With nodes having higher degrees(with bulk number of variables in each class)
+Normal Graph (Adjacency lists) :	0.023509 seconds
+Normal Graph (Adjacency Matrix):	0.022703 seconds
+Arrayed Tree Implementation of Graph :	0.003405 seconds
+=====================
+For 15 execution 
+Perfomances : 
+
+
+Test case 1: With nodes having lesser degrees
+Normal Graph (Adjacency lists) :	0.020329 seconds
+Normal Graph (Adjacency Matrix):	0.02329 seconds
+Arrayed Tree Implementation of Graph :	0.000431 seconds
+
+
+Test case 2: With nodes having higher degrees
+Normal Graph (Adjacency lists) :	0.019992 seconds
+Normal Graph (Adjacency Matrix):	0.020941 seconds
+Arrayed Tree Implementation of Graph :	0.000412 seconds
+
+Test case 3: With nodes having lesser degrees(With bulk number of variable in each class)
+Normal Graph (Adjacency lists) :	0.018472 seconds
+Normal Graph (Adjacency Matrix):	0.020973 seconds
+Arrayed Tree Implementation of Graph :	0.00032 seconds
+
+
+Test case 4: With nodes having higher degrees(with bulk number of variables in each class)
+Normal Graph (Adjacency lists) :	0.023385 seconds
+Normal Graph (Adjacency Matrix):	0.022748 seconds
+Arrayed Tree Implementation of Graph :	0.003315 seconds
+=====================
+For 16 execution 
+Perfomances : 
+
+
+Test case 1: With nodes having lesser degrees
+Normal Graph (Adjacency lists) :	0.020408 seconds
+Normal Graph (Adjacency Matrix):	0.02317 seconds
+Arrayed Tree Implementation of Graph :	0.00043 seconds
+
+
+Test case 2: With nodes having higher degrees
+Normal Graph (Adjacency lists) :	0.019842 seconds
+Normal Graph (Adjacency Matrix):	0.020868 seconds
+Arrayed Tree Implementation of Graph :	0.000413 seconds
+
+Test case 3: With nodes having lesser degrees(With bulk number of variable in each class)
+Normal Graph (Adjacency lists) :	0.0185 seconds
+Normal Graph (Adjacency Matrix):	0.020871 seconds
+Arrayed Tree Implementation of Graph :	0.000319 seconds
+
+
+Test case 4: With nodes having higher degrees(with bulk number of variables in each class)
+Normal Graph (Adjacency lists) :	0.023621 seconds
+Normal Graph (Adjacency Matrix):	0.022841 seconds
+Arrayed Tree Implementation of Graph :	0.003361 seconds
+=====================
+For 17 execution 
+Perfomances : 
+
+
+Test case 1: With nodes having lesser degrees
+Normal Graph (Adjacency lists) :	0.020322 seconds
+Normal Graph (Adjacency Matrix):	0.023312 seconds
+Arrayed Tree Implementation of Graph :	0.000438 seconds
+
+
+Test case 2: With nodes having higher degrees
+Normal Graph (Adjacency lists) :	0.019889 seconds
+Normal Graph (Adjacency Matrix):	0.020897 seconds
+Arrayed Tree Implementation of Graph :	0.000409 seconds
+
+Test case 3: With nodes having lesser degrees(With bulk number of variable in each class)
+Normal Graph (Adjacency lists) :	0.018524 seconds
+Normal Graph (Adjacency Matrix):	0.020931 seconds
+Arrayed Tree Implementation of Graph :	0.000322 seconds
+
+
+Test case 4: With nodes having higher degrees(with bulk number of variables in each class)
+Normal Graph (Adjacency lists) :	0.023356 seconds
+Normal Graph (Adjacency Matrix):	0.022704 seconds
+Arrayed Tree Implementation of Graph :	0.003343 seconds
+=====================
+For 18 execution 
+Perfomances : 
+
+
+Test case 1: With nodes having lesser degrees
+Normal Graph (Adjacency lists) :	0.020428 seconds
+Normal Graph (Adjacency Matrix):	0.023265 seconds
+Arrayed Tree Implementation of Graph :	0.000449 seconds
+
+
+Test case 2: With nodes having higher degrees
+Normal Graph (Adjacency lists) :	0.019815 seconds
+Normal Graph (Adjacency Matrix):	0.020895 seconds
+Arrayed Tree Implementation of Graph :	0.000412 seconds
+
+Test case 3: With nodes having lesser degrees(With bulk number of variable in each class)
+Normal Graph (Adjacency lists) :	0.018455 seconds
+Normal Graph (Adjacency Matrix):	0.020926 seconds
+Arrayed Tree Implementation of Graph :	0.000321 seconds
+
+
+Test case 4: With nodes having higher degrees(with bulk number of variables in each class)
+Normal Graph (Adjacency lists) :	0.02333 seconds
+Normal Graph (Adjacency Matrix):	0.022628 seconds
+Arrayed Tree Implementation of Graph :	0.003371 seconds
+=====================
+For 19 execution 
+Perfomances : 
+
+
+Test case 1: With nodes having lesser degrees
+Normal Graph (Adjacency lists) :	0.020336 seconds
+Normal Graph (Adjacency Matrix):	0.023286 seconds
+Arrayed Tree Implementation of Graph :	0.000437 seconds
+
+
+Test case 2: With nodes having higher degrees
+Normal Graph (Adjacency lists) :	0.019914 seconds
+Normal Graph (Adjacency Matrix):	0.020873 seconds
+Arrayed Tree Implementation of Graph :	0.000407 seconds
+
+Test case 3: With nodes having lesser degrees(With bulk number of variable in each class)
+Normal Graph (Adjacency lists) :	0.023711 seconds
+Normal Graph (Adjacency Matrix):	0.023962 seconds
+Arrayed Tree Implementation of Graph :	0.000341 seconds
+
+
+Test case 4: With nodes having higher degrees(with bulk number of variables in each class)
+Normal Graph (Adjacency lists) :	0.023481 seconds
+Normal Graph (Adjacency Matrix):	0.02281 seconds
+Arrayed Tree Implementation of Graph :	0.003334 seconds
+=====================
+For 20 execution 
+Perfomances : 
+
+
+Test case 1: With nodes having lesser degrees
+Normal Graph (Adjacency lists) :	0.020295 seconds
+Normal Graph (Adjacency Matrix):	0.023517 seconds
+Arrayed Tree Implementation of Graph :	0.00054 seconds
+
+
+Test case 2: With nodes having higher degrees
+Normal Graph (Adjacency lists) :	0.023725 seconds
+Normal Graph (Adjacency Matrix):	0.023385 seconds
+Arrayed Tree Implementation of Graph :	0.001808 seconds
+
+Test case 3: With nodes having lesser degrees(With bulk number of variable in each class)
+Normal Graph (Adjacency lists) :	0.015753 seconds
+Normal Graph (Adjacency Matrix):	0.01856 seconds
+Arrayed Tree Implementation of Graph :	0.000414 seconds
+
+
+Test case 4: With nodes having higher degrees(with bulk number of variables in each class)
+Normal Graph (Adjacency lists) :	0.016066 seconds
+Normal Graph (Adjacency Matrix):	0.018493 seconds
+Arrayed Tree Implementation of Graph :	0.000186 seconds
